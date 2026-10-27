@@ -3,7 +3,7 @@
     <PackageId>Genkan.Shared</PackageId>
     <Authors>genkan-software</Authors>
     <Description>Shared contracts, auth and messaging for the Genkan services</Description>
-    <RepositoryUrl>https://github.com/genkan-software/genkan-shared</RepositoryUrl>
+    <RepositoryUrl>https://github.com/genkan-software/shared</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
   </PropertyGroup>
   <ItemGroup>

@@ -1,4 +1,4 @@
-# genkan-shared
+# shared
 
 NuGet library `Genkan.Shared`: gateway-header auth, roles, entities, RabbitMQ topology/envelopes, health, hosting defaults, options used by more than one service.
 
@@ -17,4 +17,4 @@ This repo is **not** part of the setup repo's "release every service" tag: relea
 ## Versioning
 
 SemVer. A breaking change to `EventEnvelope`, `Topology`, `GatewayHeaders` or an entity = major bump.
-Entity changes also need a new migration in `genkan-migrator`.
+Entity changes also need a new migration in `migrator`.
